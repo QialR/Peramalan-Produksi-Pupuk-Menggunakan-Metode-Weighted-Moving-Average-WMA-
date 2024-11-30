@@ -1,0 +1,8 @@
+Streamlit
+NumPy
+Pandas
+Matplotlib
+Scikit-Learn
+Plotly
+
+
